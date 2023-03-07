@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{05D007AC-00AD-47D9-BA0B-BA44763A2D4C}</ProjectGuid>
+    <ProjectGuid>{21C77F5F-7B29-419B-B095-1E12D1976B5D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CoderbyteCsharp</RootNamespace>
-    <AssemblyName>CoderbyteCsharp</AssemblyName>
+    <RootNamespace>BracketCombinations</RootNamespace>
+    <AssemblyName>BracketCombinations</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

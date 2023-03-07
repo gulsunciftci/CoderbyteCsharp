@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\BracketCombinations\bin\Debug\BracketCombinations.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\BracketCombinations\bin\Debug\BracketCombinations.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\BracketCombinations\bin\Debug\BracketCombinations.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\BracketCombinations\obj\Debug\BracketCombinations.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\BracketCombinations\obj\Debug\BracketCombinations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\BracketCombinations\obj\Debug\BracketCombinations.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\BracketCombinations\obj\Debug\BracketCombinations.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\BracketCombinations\obj\Debug\BracketCombinations.pdb

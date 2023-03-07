@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CoderbyteCsharp")]
+[assembly: AssemblyTitle("BracketCombinations")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CoderbyteCsharp")]
+[assembly: AssemblyProduct("BracketCombinations")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("05d007ac-00ad-47d9-ba0b-ba44763a2d4c")]
+[assembly: Guid("21c77f5f-7b29-419b-b095-1e12d1976b5d")]
 
 // Version information for an assembly consists of the following four values:
 //
