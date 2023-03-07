@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstFactorial\bin\Debug\FirstFactorial.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstFactorial\bin\Debug\FirstFactorial.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstFactorial\bin\Debug\FirstFactorial.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstFactorial\obj\Debug\FirstFactorial.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstFactorial\obj\Debug\FirstFactorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstFactorial\obj\Debug\FirstFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstFactorial\obj\Debug\FirstFactorial.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstFactorial\obj\Debug\FirstFactorial.pdb

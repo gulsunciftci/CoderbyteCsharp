@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketCombinations", "Brac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstReverse", "FirstReverse\FirstReverse.csproj", "{1B0439B0-745D-4B1C-869B-22BD26B10951}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstFactorial", "FirstFactorial\FirstFactorial.csproj", "{7CD12AD4-2692-4109-9A71-11B7D51EEBE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1B0439B0-745D-4B1C-869B-22BD26B10951}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B0439B0-745D-4B1C-869B-22BD26B10951}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B0439B0-745D-4B1C-869B-22BD26B10951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CD12AD4-2692-4109-9A71-11B7D51EEBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD12AD4-2692-4109-9A71-11B7D51EEBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD12AD4-2692-4109-9A71-11B7D51EEBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD12AD4-2692-4109-9A71-11B7D51EEBE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
