@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstReverse\bin\Debug\FirstReverse.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstReverse\bin\Debug\FirstReverse.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstReverse\bin\Debug\FirstReverse.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstReverse\obj\Debug\FirstReverse.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstReverse\obj\Debug\FirstReverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstReverse\obj\Debug\FirstReverse.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstReverse\obj\Debug\FirstReverse.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\FirstReverse\obj\Debug\FirstReverse.pdb
