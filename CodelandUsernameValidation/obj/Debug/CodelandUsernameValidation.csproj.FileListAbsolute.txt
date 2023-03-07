@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\CodelandUsernameValidation\bin\Debug\CodelandUsernameValidation.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\CodelandUsernameValidation\bin\Debug\CodelandUsernameValidation.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\CodelandUsernameValidation\bin\Debug\CodelandUsernameValidation.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\CodelandUsernameValidation\obj\Debug\CodelandUsernameValidation.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\CodelandUsernameValidation\obj\Debug\CodelandUsernameValidation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\CodelandUsernameValidation\obj\Debug\CodelandUsernameValidation.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\CodelandUsernameValidation\obj\Debug\CodelandUsernameValidation.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\CodelandUsernameValidation\obj\Debug\CodelandUsernameValidation.pdb
