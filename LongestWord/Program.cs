@@ -21,7 +21,7 @@ namespace LongestWord
             string[] words = sen.Split(' ');
 
             return words.OrderByDescending(x => x.Length).First();
-            //return Regex.Replace(sen, @"(\p{P})", "").Split(' ').OrderByDescending(i => i.Length).First();
+            //return Regex.Replace(sen, @"[^\w\s]", "").Split(' ').OrderByDescending(i => i.Length).First();
         }
     }
 
