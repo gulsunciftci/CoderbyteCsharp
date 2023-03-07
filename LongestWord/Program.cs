@@ -22,6 +22,10 @@ namespace LongestWord
 
             return words.OrderByDescending(x => x.Length).First();
             //return Regex.Replace(sen, @"[^\w\s]", "").Split(' ').OrderByDescending(i => i.Length).First();
+
+            //Regrex bilgi linkleri:
+            //https://www.ebubekirbastama.com/2023/01/c-regex-regular-expressions-nedir-ve.html
+            //http://myweb.sabanciuniv.edu/alper/regular-expression-duzenli-ifadeler/
         }
     }
 
