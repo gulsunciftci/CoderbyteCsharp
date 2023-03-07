@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\LongestWord\bin\Debug\LongestWord.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\LongestWord\bin\Debug\LongestWord.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\LongestWord\bin\Debug\LongestWord.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\LongestWord\obj\Debug\LongestWord.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\LongestWord\obj\Debug\LongestWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\LongestWord\obj\Debug\LongestWord.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\LongestWord\obj\Debug\LongestWord.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\LongestWord\obj\Debug\LongestWord.pdb
