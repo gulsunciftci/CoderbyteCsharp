@@ -37,6 +37,7 @@ namespace CsharpJSONCleaning
                 strResult = reader.ReadLine();
             }
             response.Close();
+            //https://gist.github.com/komalsdg/e7a43e1e18241714227d99c839bdbadf
         }
     }
 }

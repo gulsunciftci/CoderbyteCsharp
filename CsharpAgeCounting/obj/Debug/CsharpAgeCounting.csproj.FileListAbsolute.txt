@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpAgeCounting\bin\Debug\CsharpAgeCounting.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpAgeCounting\bin\Debug\CsharpAgeCounting.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpAgeCounting\bin\Debug\CsharpAgeCounting.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpAgeCounting\obj\Debug\CsharpAgeCounting.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpAgeCounting\obj\Debug\CsharpAgeCounting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpAgeCounting\obj\Debug\CsharpAgeCounting.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpAgeCounting\obj\Debug\CsharpAgeCounting.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpAgeCounting\obj\Debug\CsharpAgeCounting.pdb
