@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleEvens\bin\Debug\SimpleEvens.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleEvens\bin\Debug\SimpleEvens.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleEvens\bin\Debug\SimpleEvens.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleEvens\obj\Debug\SimpleEvens.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleEvens\obj\Debug\SimpleEvens.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleEvens\obj\Debug\SimpleEvens.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleEvens\obj\Debug\SimpleEvens.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleEvens\obj\Debug\SimpleEvens.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\CheckNums\bin\Debug\CheckNums.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\CheckNums\bin\Debug\CheckNums.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\CheckNums\bin\Debug\CheckNums.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\CheckNums\obj\Debug\CheckNums.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\CheckNums\obj\Debug\CheckNums.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\CheckNums\obj\Debug\CheckNums.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\CheckNums\obj\Debug\CheckNums.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\CheckNums\obj\Debug\CheckNums.pdb
