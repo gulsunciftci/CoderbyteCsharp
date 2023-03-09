@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpJSONCleaning\bin\Debug\CsharpJSONCleaning.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpJSONCleaning\bin\Debug\CsharpJSONCleaning.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpJSONCleaning\bin\Debug\CsharpJSONCleaning.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpJSONCleaning\obj\Debug\CsharpJSONCleaning.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpJSONCleaning\obj\Debug\CsharpJSONCleaning.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpJSONCleaning\obj\Debug\CsharpJSONCleaning.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpJSONCleaning\obj\Debug\CsharpJSONCleaning.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\CsharpJSONCleaning\obj\Debug\CsharpJSONCleaning.pdb

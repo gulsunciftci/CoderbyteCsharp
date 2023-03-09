@@ -33,6 +33,10 @@ namespace CheckNums
             }
 
             return res;
+
+            //https://www.scribd.com/document/477224981/Problem-Solving-1#
+            //https://github.com/Hardanish-Singh/CoderByte-Challenges-Solutions/tree/master/string%20manipulation
+            //https://github.com/ratracegrad/coderbyte-Beginner/blob/master/Check%20Numss
         }
     }
 }
