@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\Bracket Matcher\bin\Debug\Bracket Matcher.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\Bracket Matcher\bin\Debug\Bracket Matcher.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\Bracket Matcher\bin\Debug\Bracket Matcher.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\Bracket Matcher\obj\Debug\Bracket Matcher.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\Bracket Matcher\obj\Debug\Bracket Matcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\Bracket Matcher\obj\Debug\Bracket Matcher.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\Bracket Matcher\obj\Debug\Bracket Matcher.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\Bracket Matcher\obj\Debug\Bracket Matcher.pdb

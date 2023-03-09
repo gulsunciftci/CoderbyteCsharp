@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\FindIntersection\bin\Debug\FindIntersection.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\FindIntersection\bin\Debug\FindIntersection.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\FindIntersection\bin\Debug\FindIntersection.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\FindIntersection\obj\Debug\FindIntersection.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\FindIntersection\obj\Debug\FindIntersection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\FindIntersection\obj\Debug\FindIntersection.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\FindIntersection\obj\Debug\FindIntersection.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\FindIntersection\obj\Debug\FindIntersection.pdb
