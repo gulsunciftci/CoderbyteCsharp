@@ -4,22 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FirstFactorial
+namespace SimpleAdding
 {
     public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(FirstFactorial(Convert.ToInt32(Console.ReadLine())));
+            Console.WriteLine(Sum(Convert.ToInt32(Console.ReadLine())));
         }
-        public static int FirstFactorial(int num)
+
+        public static int Sum(int n)
         {
-            if (num == 0)
+           
+            if (n == 1)
                 return 1;
             else
-                // recursive call
-                return num * FirstFactorial(num - 1);
-
+                return n + Sum(n - 1);
         }
     }
 }

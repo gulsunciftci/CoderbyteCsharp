@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleAdding\bin\Debug\SimpleAdding.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleAdding\bin\Debug\SimpleAdding.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleAdding\bin\Debug\SimpleAdding.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleAdding\obj\Debug\SimpleAdding.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleAdding\obj\Debug\SimpleAdding.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleAdding\obj\Debug\SimpleAdding.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleAdding\obj\Debug\SimpleAdding.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\SimpleAdding\obj\Debug\SimpleAdding.pdb
