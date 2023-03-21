@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\vowelCount\bin\Debug\vowelCount.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\vowelCount\bin\Debug\vowelCount.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\vowelCount\bin\Debug\vowelCount.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\vowelCount\obj\Debug\vowelCount.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\vowelCount\obj\Debug\vowelCount.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\vowelCount\obj\Debug\vowelCount.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\vowelCount\obj\Debug\vowelCount.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\vowelCount\obj\Debug\vowelCount.pdb
