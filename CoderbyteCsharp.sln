@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterCapitalize", "LetterC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConvert", "TimeConvert\TimeConvert.csproj", "{A9BA89D1-DC02-4CAA-8CB3-03E0FFB437A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetSoup", "AlphabetSoup\AlphabetSoup.csproj", "{55580BA8-CD40-40E4-8059-6C8B73300376}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{A9BA89D1-DC02-4CAA-8CB3-03E0FFB437A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9BA89D1-DC02-4CAA-8CB3-03E0FFB437A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9BA89D1-DC02-4CAA-8CB3-03E0FFB437A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55580BA8-CD40-40E4-8059-6C8B73300376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55580BA8-CD40-40E4-8059-6C8B73300376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55580BA8-CD40-40E4-8059-6C8B73300376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55580BA8-CD40-40E4-8059-6C8B73300376}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

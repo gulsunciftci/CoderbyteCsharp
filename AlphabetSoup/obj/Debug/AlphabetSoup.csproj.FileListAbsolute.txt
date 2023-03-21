@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\AlphabetSoup\bin\Debug\AlphabetSoup.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\AlphabetSoup\bin\Debug\AlphabetSoup.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\AlphabetSoup\bin\Debug\AlphabetSoup.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\AlphabetSoup\obj\Debug\AlphabetSoup.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\AlphabetSoup\obj\Debug\AlphabetSoup.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\AlphabetSoup\obj\Debug\AlphabetSoup.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\AlphabetSoup\obj\Debug\AlphabetSoup.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\AlphabetSoup\obj\Debug\AlphabetSoup.pdb
