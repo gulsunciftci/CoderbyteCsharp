@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\ABCheck\bin\Debug\ABCheck.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\ABCheck\bin\Debug\ABCheck.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\ABCheck\bin\Debug\ABCheck.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\ABCheck\obj\Debug\ABCheck.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\ABCheck\obj\Debug\ABCheck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\ABCheck\obj\Debug\ABCheck.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\ABCheck\obj\Debug\ABCheck.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\ABCheck\obj\Debug\ABCheck.pdb
