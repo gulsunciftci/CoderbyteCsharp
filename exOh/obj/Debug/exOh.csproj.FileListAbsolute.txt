@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\exOh\bin\Debug\exOh.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\exOh\bin\Debug\exOh.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\exOh\bin\Debug\exOh.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\exOh\obj\Debug\exOh.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\exOh\obj\Debug\exOh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\exOh\obj\Debug\exOh.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\exOh\obj\Debug\exOh.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\exOh\obj\Debug\exOh.pdb

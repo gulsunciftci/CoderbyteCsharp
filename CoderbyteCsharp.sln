@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABCheck", "ABCheck\ABCheck.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vowelCount", "vowelCount\vowelCount.csproj", "{3ED6E5D5-BA2F-4E9D-A48F-286891E6727D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exOh", "exOh\exOh.csproj", "{D5463420-4A2C-4E21-9BE6-A5BE0FC9857C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{3ED6E5D5-BA2F-4E9D-A48F-286891E6727D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3ED6E5D5-BA2F-4E9D-A48F-286891E6727D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3ED6E5D5-BA2F-4E9D-A48F-286891E6727D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5463420-4A2C-4E21-9BE6-A5BE0FC9857C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5463420-4A2C-4E21-9BE6-A5BE0FC9857C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5463420-4A2C-4E21-9BE6-A5BE0FC9857C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5463420-4A2C-4E21-9BE6-A5BE0FC9857C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
