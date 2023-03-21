@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterChanges", "LetterChan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAdding", "SimpleAdding\SimpleAdding.csproj", "{938DD436-0A1F-4904-B54B-4458A9231A7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterCapitalize", "LetterCapitalize\LetterCapitalize.csproj", "{AC127FFC-BFDC-4FA4-B71C-3F59F1FAF501}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{938DD436-0A1F-4904-B54B-4458A9231A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{938DD436-0A1F-4904-B54B-4458A9231A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{938DD436-0A1F-4904-B54B-4458A9231A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC127FFC-BFDC-4FA4-B71C-3F59F1FAF501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC127FFC-BFDC-4FA4-B71C-3F59F1FAF501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC127FFC-BFDC-4FA4-B71C-3F59F1FAF501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC127FFC-BFDC-4FA4-B71C-3F59F1FAF501}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterCapitalize\bin\Debug\LetterCapitalize.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterCapitalize\bin\Debug\LetterCapitalize.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterCapitalize\bin\Debug\LetterCapitalize.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterCapitalize\obj\Debug\LetterCapitalize.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterCapitalize\obj\Debug\LetterCapitalize.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterCapitalize\obj\Debug\LetterCapitalize.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterCapitalize\obj\Debug\LetterCapitalize.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterCapitalize\obj\Debug\LetterCapitalize.pdb
