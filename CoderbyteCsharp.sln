@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAdding", "SimpleAddin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterCapitalize", "LetterCapitalize\LetterCapitalize.csproj", "{AC127FFC-BFDC-4FA4-B71C-3F59F1FAF501}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConvert", "TimeConvert\TimeConvert.csproj", "{A9BA89D1-DC02-4CAA-8CB3-03E0FFB437A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{AC127FFC-BFDC-4FA4-B71C-3F59F1FAF501}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC127FFC-BFDC-4FA4-B71C-3F59F1FAF501}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC127FFC-BFDC-4FA4-B71C-3F59F1FAF501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9BA89D1-DC02-4CAA-8CB3-03E0FFB437A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BA89D1-DC02-4CAA-8CB3-03E0FFB437A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BA89D1-DC02-4CAA-8CB3-03E0FFB437A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BA89D1-DC02-4CAA-8CB3-03E0FFB437A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

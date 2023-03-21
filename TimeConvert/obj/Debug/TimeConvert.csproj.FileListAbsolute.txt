@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\TimeConvert\bin\Debug\TimeConvert.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\TimeConvert\bin\Debug\TimeConvert.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\TimeConvert\bin\Debug\TimeConvert.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\TimeConvert\obj\Debug\TimeConvert.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\TimeConvert\obj\Debug\TimeConvert.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\TimeConvert\obj\Debug\TimeConvert.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\TimeConvert\obj\Debug\TimeConvert.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\TimeConvert\obj\Debug\TimeConvert.pdb
