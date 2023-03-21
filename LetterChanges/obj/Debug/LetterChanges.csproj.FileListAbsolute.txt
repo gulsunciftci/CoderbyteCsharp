@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterChanges\bin\Debug\LetterChanges.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterChanges\bin\Debug\LetterChanges.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterChanges\bin\Debug\LetterChanges.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterChanges\obj\Debug\LetterChanges.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterChanges\obj\Debug\LetterChanges.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterChanges\obj\Debug\LetterChanges.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterChanges\obj\Debug\LetterChanges.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\LetterChanges\obj\Debug\LetterChanges.pdb

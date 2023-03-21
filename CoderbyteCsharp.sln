@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpJSONCleaning", "Cshar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpAgeCounting", "CsharpAgeCounting\CsharpAgeCounting.csproj", "{61C0BB26-3664-48F8-A2A1-6CF66829FFD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterChanges", "LetterChanges\LetterChanges.csproj", "{66C1226F-12F0-4806-AEBB-55D8B499625F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{61C0BB26-3664-48F8-A2A1-6CF66829FFD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61C0BB26-3664-48F8-A2A1-6CF66829FFD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61C0BB26-3664-48F8-A2A1-6CF66829FFD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66C1226F-12F0-4806-AEBB-55D8B499625F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C1226F-12F0-4806-AEBB-55D8B499625F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C1226F-12F0-4806-AEBB-55D8B499625F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C1226F-12F0-4806-AEBB-55D8B499625F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
