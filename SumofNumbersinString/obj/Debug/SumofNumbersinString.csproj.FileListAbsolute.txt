@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\SumofNumbersinString\bin\Debug\SumofNumbersinString.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\SumofNumbersinString\bin\Debug\SumofNumbersinString.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\SumofNumbersinString\bin\Debug\SumofNumbersinString.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\SumofNumbersinString\obj\Debug\SumofNumbersinString.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\SumofNumbersinString\obj\Debug\SumofNumbersinString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\SumofNumbersinString\obj\Debug\SumofNumbersinString.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\SumofNumbersinString\obj\Debug\SumofNumbersinString.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\SumofNumbersinString\obj\Debug\SumofNumbersinString.pdb
