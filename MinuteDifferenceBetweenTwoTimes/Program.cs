@@ -23,84 +23,77 @@ namespace MinuteDifferenceBetweenTwoTimes
             List<string> str2 = strings[1].Split(':').ToList();
             TimeSpan span;
 
-            if ((str1[0].Length == 2 && str2[0].Length == 2))
+            if ((strings[0][strings[0].Length - 2] == 'a' && strings[1][strings[1].Length - 2] == 'a') || (strings[0][strings[0].Length - 2] == 'p' && strings[1][strings[1].Length - 2] == 'p'))
             {
-                if ((strings[0][strings[0].Length - 2] == 'a' && strings[1][strings[1].Length - 2] == 'a') || (strings[0][strings[0].Length - 2] == 'p' && strings[1][strings[1].Length - 2] == 'p'))
+                if ((str1[0].Length == 2 && str2[0].Length == 2))
                 {
-                    span = endTime.Subtract(startTime);
-                    sum = Convert.ToInt32(span.TotalMinutes);
+                    if (int.Parse(str1[0]) > int.Parse(str2[0]))
+                    {
+                        span = startTime.Subtract(startTime);
+                        sum = Convert.ToInt32(span.TotalMinutes);
+                    }
+                    else if (int.Parse(str1[0]) < int.Parse(str2[0]))
+                    {
+                        span = endTime.Subtract(startTime);
+                        sum = 12*60 + Convert.ToInt32(span.TotalMinutes);
+                    }
                 }
-                else if (strings[0][strings[0].Length - 2] == 'p' && strings[1][strings[1].Length - 2] == 'a')
-                {
-                    span = startTime.Subtract(endTime);
-                    sum = 12 * 60 - (Convert.ToInt32(span.TotalMinutes) - 12 * 60);
-                }
-                else if (strings[0][strings[0].Length - 2] == 'a' && strings[1][strings[1].Length - 2] == 'p')
-                {
-                    span = endTime.Subtract(startTime);
-                    sum =  12*60+(Convert.ToInt32(span.TotalMinutes) - 12 * 60);
-                }
-
-            }
-
-            if (str1[0].Length == 1 && str2[0].Length == 2)
-            {
-                if ((strings[0][strings[0].Length - 2] == 'a' && strings[1][strings[1].Length - 2] == 'a') || (strings[0][strings[0].Length - 2] == 'p' && strings[1][strings[1].Length - 2] == 'p'))
-                {
-                    span = endTime.Subtract(startTime);
-                    sum = Convert.ToInt32(span.TotalMinutes);
-                }
-                else if (strings[0][strings[0].Length - 2] == 'p' && strings[1][strings[1].Length - 2] == 'a')
-                {
-                    span = startTime.Subtract(endTime);
-                    sum = 12 * 60 - (Convert.ToInt32(span.TotalMinutes) - 12 * 60);
-                }
-                else if (strings[0][strings[0].Length - 2] == 'a' && strings[1][strings[1].Length - 2] == 'p')
-                {
-                    span = endTime.Subtract(startTime);
-                    sum = 12 * 60 +(Convert.ToInt32(span.TotalMinutes)-12*60);
-                }
-            }
-            if (str1[0].Length == 2 && str2[0].Length == 1)
-            {
-                if ((strings[0][strings[0].Length - 2] == 'a' && strings[1][strings[1].Length - 2] == 'a') || (strings[0][strings[0].Length - 2] == 'p' && strings[1][strings[1].Length - 2] == 'p'))
+                else if ((str1[0].Length == 2 && str2[0].Length == 1))
                 {
                     span = endTime.Subtract(startTime);
                     sum = 24 * 60 + (Convert.ToInt32(span.TotalMinutes));
                 }
-                else if (strings[0][strings[0].Length - 2] == 'p' && strings[1][strings[1].Length - 2] == 'a')
+                else if (str1[0].Length == 1 && str2[0].Length == 2)
                 {
-                    span = startTime.Subtract(endTime);
-                    sum = 12 * 60 - (Convert.ToInt32(span.TotalMinutes) - 12 * 60);
+                    span =endTime.Subtract(startTime);
+                    sum = (Convert.ToInt32(span.TotalMinutes));
                 }
-                else if (strings[0][strings[0].Length - 2] == 'a' && strings[1][strings[1].Length - 2] == 'p')
+                else if (str1[0].Length == 1 && str2[0].Length == 1)
                 {
-                    span = endTime.Subtract(startTime);
-                    sum = 12 * 60 + (Convert.ToInt32(span.TotalMinutes) - 12 * 60);
+                    if (int.Parse(str1[0]) > int.Parse(str2[0]))
+                    {
+                        span = startTime.Subtract(endTime);
+                        sum = 24 * 60 - Convert.ToInt32(span.TotalMinutes);
+                    }
+                    else if (int.Parse(str1[0]) < int.Parse(str2[0]))
+                    {
+                        span = endTime.Subtract(startTime);
+                        sum = Convert.ToInt32(span.TotalMinutes);
+                    }
                 }
             }
-            if (str1[0].Length == 1 && str2[0].Length == 1)
-            {
-                if ((strings[0][strings[0].Length - 2] == 'a' && strings[1][strings[1].Length - 2] == 'a') || (strings[0][strings[0].Length - 2] == 'p' && strings[1][strings[1].Length - 2] == 'p'))
-                {
-                    span = startTime.Subtract(endTime);
-                    sum =24*60-Convert.ToInt32(span.TotalMinutes);
-                }
-                else if (strings[0][strings[0].Length - 2] == 'p' && strings[1][strings[1].Length - 2] == 'a')
+        
+           else if (strings[0][strings[0].Length - 2] == 'p' && strings[1][strings[1].Length - 2] == 'a')
+           {
+                if (str1[0].Length == 1 && str2[0].Length == 1)
                 {
                     span = startTime.Subtract(endTime);
                     sum = 12 * 60 - (Convert.ToInt32(span.TotalMinutes));
                 }
-                else if (strings[0][strings[0].Length - 2] == 'a' && strings[1][strings[1].Length - 2] == 'p')
+                else
+                {
+                    span = startTime.Subtract(endTime);
+                    sum = 12 * 60 - (Convert.ToInt32(span.TotalMinutes) - 12 * 60);
+                }
+           }
+           else if (strings[0][strings[0].Length - 2] == 'a' && strings[1][strings[1].Length - 2] == 'p')
+           {
+                if (str1[0].Length == 1 && str2[0].Length == 1)
                 {
                     span = endTime.Subtract(startTime);
                     sum = 12 * 60 + (Convert.ToInt32(span.TotalMinutes));
                 }
-            }
+                else
+                {
+                    span = endTime.Subtract(startTime);
+                    sum = 12 * 60 + (Convert.ToInt32(span.TotalMinutes) - 12 * 60);
+                }
+                
+           }
+            
             Console.WriteLine(sum);
 
-
-        }
+         }
     }
 }
 
