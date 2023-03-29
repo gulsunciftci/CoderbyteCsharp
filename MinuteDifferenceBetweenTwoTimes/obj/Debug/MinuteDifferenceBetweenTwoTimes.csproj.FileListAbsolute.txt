@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\CoderbyteCsharp\MinuteDifferenceBetweenTwoTimes\bin\Debug\MinuteDifferenceBetweenTwoTimes.exe.config
+C:\Users\Hp\source\repos\CoderbyteCsharp\MinuteDifferenceBetweenTwoTimes\bin\Debug\MinuteDifferenceBetweenTwoTimes.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\MinuteDifferenceBetweenTwoTimes\bin\Debug\MinuteDifferenceBetweenTwoTimes.pdb
+C:\Users\Hp\source\repos\CoderbyteCsharp\MinuteDifferenceBetweenTwoTimes\obj\Debug\MinuteDifferenceBetweenTwoTimes.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\MinuteDifferenceBetweenTwoTimes\obj\Debug\MinuteDifferenceBetweenTwoTimes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\MinuteDifferenceBetweenTwoTimes\obj\Debug\MinuteDifferenceBetweenTwoTimes.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CoderbyteCsharp\MinuteDifferenceBetweenTwoTimes\obj\Debug\MinuteDifferenceBetweenTwoTimes.exe
+C:\Users\Hp\source\repos\CoderbyteCsharp\MinuteDifferenceBetweenTwoTimes\obj\Debug\MinuteDifferenceBetweenTwoTimes.pdb

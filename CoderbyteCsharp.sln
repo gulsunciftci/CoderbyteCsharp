@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumofNumbersinString", "SumofNumbersinString\SumofNumbersinString.csproj", "{A93095F0-BF5C-46D3-AAE8-ACB1AC2A5432}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinuteDifferenceBetweenTwoTimes", "MinuteDifferenceBetweenTwoTimes\MinuteDifferenceBetweenTwoTimes.csproj", "{5B02F91F-89AA-4BD5-AA31-06CCC702851E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{A93095F0-BF5C-46D3-AAE8-ACB1AC2A5432}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A93095F0-BF5C-46D3-AAE8-ACB1AC2A5432}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A93095F0-BF5C-46D3-AAE8-ACB1AC2A5432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B02F91F-89AA-4BD5-AA31-06CCC702851E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B02F91F-89AA-4BD5-AA31-06CCC702851E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B02F91F-89AA-4BD5-AA31-06CCC702851E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B02F91F-89AA-4BD5-AA31-06CCC702851E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
